@@ -1,0 +1,136 @@
+.body {
+    font-family: 'Noto Serif', sans-serif;
+}
+
+.navbar {
+    font-family: 'Noto Serif', sans-serif; 
+  }
+
+  .details .content+.content {
+    margin-top: 100px;
+  }
+  
+  .details .content h3 {
+    font-weight: 600;
+    font-size: 26px;
+    color: #010483;
+    
+  }
+  
+  .details .content ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .details .content ul li {
+    padding-bottom: 10px;
+  }
+  
+  .details .content ul i {
+    font-size: 20px;
+    padding-right: 4px;
+    color: #1acc8d;
+  }
+  
+  .details .content p:last-child {
+    margin-bottom: 0;
+  }
+
+  #quiz-container {
+    max-width: 600px;
+    margin: 20px auto;
+    color: rgb(37, 170, 19)000;
+}
+
+.progress {
+    margin-bottom: 20px;
+}
+
+.question {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    margin-bottom: 10px;
+}
+
+.options label {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    display: block;
+    margin-bottom: 8px;
+}
+
+#result {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    margin-top: 20px;
+    color: rgb(37, 170, 19)000;
+}
+
+
+  #footer {
+    font-family: 'Noto Serif', sans-serif;
+    background-color: #ebe8e8; 
+    color: #000000; 
+    padding: 40px 0; 
+  }
+  
+  .footer-top {
+    border-bottom: 1px solid #555; 
+  }
+  
+  .footer-contact h3 {
+    color: rgb(0, 0, 0) 
+  }
+  
+  .footer-contact p {
+    color: #000000; 
+  }
+  
+  .footer-contact a {
+    color: #000000; 
+  }
+  
+  .footer-heading {
+    color: #000000; 
+  }
+  
+  .footer-links a {
+    color: #000000; 
+  }
+  
+  .footer-links a:hover {
+    color: #000000; 
+  }
+  
+  .footer-links i {
+    color: #3498db; 
+  }
+  
+  .footer-links i:hover {
+    color: #fff; 
+  }
+  
+  .footer-links ul {
+    padding: 0; 
+  }
+  
+  .footer-links li {
+    list-style: none; 
+  }
+  
+  .footer-links li a {
+    padding: 5px 0; 
+    display: block; 
+  }
+  
+  .footer-bottom {
+    text-align: center; 
+    padding-top: 5px; 
+    margin-bottom: 5px;
+  }
+  
+  .footer-bottom a {
+    color: #3498db; 
+  }
+  
+  .footer-bottom a:hover {
+    color: #000000; 
+  }
+  
